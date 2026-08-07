@@ -12,7 +12,7 @@
 
 ## About
 
-I'm a third-year B.Tech Information Technology student at MIT ADT University, Pune (2023–2027, CGPA 8.52/10.0). Alongside coursework, I run **AdMax India**, a hyperlocal SaaS advertising platform I founded, and I've shipped 15+ Android apps as an independent developer along the way.
+I'm a final year B.Tech Information Technology student at MIT ADT University, Pune (2023–2027, CGPA 8.52/10.0). Alongside coursework, I run **AdMax India**, a hyperlocal SaaS advertising platform I founded, and I've shipped 15+ Android apps as an independent developer along the way.
 
 Most of what I build sits somewhere between full-stack web and SaaS infrastructure — React on the front end, Node/Express or FastAPI on the back, and whatever database schema the problem actually calls for. I like the unglamorous parts too: queue architecture, auth, rate limiting, the stuff that keeps a system from quietly breaking at 2am.
 
