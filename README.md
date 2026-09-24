@@ -48,7 +48,7 @@ but genuinely *demoable* and *production-shaped*.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-shinde-160a60282/)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shinde.tanmay@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%230f172a.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanmays0)
+
 
 </div>
 
