@@ -22,7 +22,7 @@
 
 <br/>
 
-&nbsp;&nbsp;🔭 &nbsp;Intern @ **AdMax India** — hyperlocal SaaS ad network  
+&nbsp;&nbsp;🔭 &nbsp;Former Intern @ **AdMax India** — hyperlocal SaaS ad network  
 &nbsp;&nbsp;🤖 &nbsp;Deep interest in **RAG, MCP, LLMs & rate limiting**  
 &nbsp;&nbsp;🌱 &nbsp;Currently shipping **vector search, Actions & idempotent APIs**  
 &nbsp;&nbsp;💬 &nbsp;Talk to me about **TypeScript, Python, Next.js, Redis**  
