@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00FFFF&height=200&section=header&text=Tanmay%20Shinde&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Founder,%20AdMax%20India&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00FFFF&height=200&section=header&text=Tanmay%20Shinde&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Systems%20%26%20Platform&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=tanmays0&style=for-the-badge&color=0066FF&labelColor=1e1e1e&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/tanmays0?style=for-the-badge&color=0066FF&labelColor=1e1e1e&logo=github&logoColor=white" />
@@ -12,15 +12,27 @@
 
 ## About
 
-I'm a final year B.Tech Information Technology student at MIT ADT University, Pune (2023–2027, CGPA 8.52/10.0). Alongside coursework, I run **AdMax India**, a hyperlocal SaaS advertising platform I founded, and I've shipped 15+ Android apps as an independent developer along the way.
+B.Tech Information Technology @ **MIT ADT University**, Pune (2023–2027, CGPA **8.52/10.0**). I build AI systems and platform backends you can open in a browser — RAG with citations, MCP tool servers, high-throughput rate limiting, AI PR review, and payment idempotency.
 
-Most of what I build sits somewhere between full-stack web and SaaS infrastructure — React on the front end, Node/Express or FastAPI on the back, and whatever database schema the problem actually calls for. I like the unglamorous parts too: queue architecture, auth, rate limiting, the stuff that keeps a system from quietly breaking at 2am.
-
-- 🎓 Information Technology @ MIT ADT University, Pune — graduating 2027
-- 🚀 Founder, AdMax India — building all four platform modules plus its iOS/Android apps
-- 🛠️ Day-to-day stack: React · Node.js/Express · FastAPI · MySQL/PostgreSQL/MongoDB
-- 📜 13 certifications across backend dev, test automation, UI/UX, AI, networking, and data viz — 95%+ average
+- 🎓 IT @ MIT ADT · graduating 2027
+- 💼 Full Stack Intern @ **AdMax India** (hyperlocal SaaS ad network)
+- 🛠️ TypeScript / Python · Next.js · FastAPI · Redis · Postgres/MySQL · Docker · Vercel
+- 📜 **17** certifications (Coursera, DeepLearning.AI, Google, IBM, Meta, Microsoft, MongoDB, …)
 - 📍 Pune, India
+
+<br>
+
+## Links
+
+<div align="center">
+
+<a href="mailto:shinde.tanmay@gmail.com"><img src="https://img.shields.io/badge/Email-0066FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e1e" /></a>
+<a href="https://www.linkedin.com/in/tanmay-shinde-160a60282/"><img src="https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1e1e" /></a>
+<a href="https://github.com/tanmays0"><img src="https://img.shields.io/badge/GitHub-1e1e1e?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+**Live demos:** [cite-rag](https://cite-rag.vercel.app) · [limitlab](https://limitlab.vercel.app) · [diff-review](https://diff-review-ten.vercel.app) · [paylock](https://paylock-six.vercel.app) · [ops-mcp](https://tanmays0.github.io/ops-mcp/)
+
+</div>
 
 <br>
 
@@ -30,66 +42,80 @@ Most of what I build sits somewhere between full-stack web and SaaS infrastructu
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=js,java,py,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,java,html,css&theme=dark" />
 
 **Frameworks & Libraries**
 <br>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,bootstrap,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind,vite&theme=dark" />
 
-**Databases**
+**Data & infra**
 <br>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" />
-
-**DevOps & Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,redis,postman,vscode&theme=dark" />
-
-**Testing**
-<br>
-<img src="https://img.shields.io/badge/Jest-0066FF?style=flat-square&logo=jest&logoColor=white&labelColor=1e1e1e" />
-<img src="https://img.shields.io/badge/TestNG-0066FF?style=flat-square&labelColor=1e1e1e" />
-<img src="https://img.shields.io/badge/Selenium-0066FF?style=flat-square&logo=selenium&logoColor=white&labelColor=1e1e1e" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,vercel,aws,git&theme=dark" />
 
 </div>
 
 <br>
 
-## 💼 Experience
+## Experience
 
-**AdMax India** — Full Stack & Software Developer Intern · *Jun 2026 – Present*
-Building all four modules of the AdMax India platform — advertiser dashboard, admin panel, marketing site, and screen player — plus the companion iOS (Swift) and Android (Java) apps advertisers and admins use to manage campaigns, screens, and billing on the go. Working across REST API design, PostgreSQL schema management, and feature development end to end.
-
-**CodSoft** — Java Development Intern · *Dec 2024 – Jan 2025*
-Worked through a series of Java assignments covering OOP and core language fundamentals at CodSoft, an ISO 9001:2015-certified company, translating that into functional code across the assigned tasks.
-
-<br>
-
-## 🚀 Featured Projects
-
-### FlowForge
-<img src="https://img.shields.io/badge/React-0066FF?style=flat-square&logo=react&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Node.js-0066FF?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Express-0066FF?style=flat-square&logo=express&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/MySQL-0066FF?style=flat-square&logo=mysql&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Redis-0066FF?style=flat-square&logo=redis&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/BullMQ-0066FF?style=flat-square&labelColor=1e1e1e" />
-
-Rule-based workflow automation on an async queue architecture — trigger → condition → action, executed through Redis and BullMQ with retry and dead-letter handling for failed jobs. Node.js/Express backend with REST, webhook, and cron listeners, a boolean rule evaluator, and a job dispatcher. MySQL schema indexed by `workflow_id`, with JWT auth, rate limiting, and encrypted secret storage.
-
-🔗 [github.com/tanmays0/flowforge](https://github.com/tanmays0/flowforge)
-
-### ELEVARE
-<img src="https://img.shields.io/badge/React-0066FF?style=flat-square&logo=react&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Node.js-0066FF?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/FastAPI-0066FF?style=flat-square&logo=fastapi&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/MongoDB-0066FF?style=flat-square&logo=mongodb&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Groq-0066FF?style=flat-square&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Llama_3.3-0066FF?style=flat-square&labelColor=1e1e1e" />
-
-AI-powered career discovery platform built around the OCEAN personality framework and the Ikigai model. A Python FastAPI pipeline calls Groq's Llama 3.3 to generate personalized career paths from a multi-step assessment on the React/Vite frontend, with MongoDB persisting sessions and responses.
-
-🔗 [github.com/tanmays0/elevare](https://github.com/tanmays0/elevare)
-
-### AdMax India
-<img src="https://img.shields.io/badge/React-0066FF?style=flat-square&logo=react&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Node.js-0066FF?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Express-0066FF?style=flat-square&logo=express&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/PostgreSQL-0066FF?style=flat-square&logo=postgresql&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Razorpay-0066FF?style=flat-square&logo=razorpay&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Maps_API-0066FF?style=flat-square&logo=googlemaps&logoColor=white&labelColor=1e1e1e" />
-
-Hyperlocal SaaS advertising network — local businesses run ads on each other's screens based on proximity targeting. Four modules (marketing site, advertiser dashboard, admin panel, screen player) with the player polling for new ads every 10–15 seconds. Razorpay handles billing, Cloudinary stores media, screen targeting runs on the Google Maps API, across an 8-table PostgreSQL schema with JWT auth.
+**AdMax India** — Full Stack & Software Developer Intern · *Apr 2026 – Sep 2026*  
+Built **4 product surfaces** (advertiser dashboard, admin panel, marketing site, on-device screen player) for a hyperlocal SaaS ad network — REST APIs, JWT/OAuth, MySQL, React Native, Docker, and **3 GitHub Actions** workflows (CI / Terraform / deploy) toward AWS EKS.
 
 🔗 [github.com/tanmays0/admax-india](https://github.com/tanmays0/admax-india)
 
+**CodSoft** — Python Programming Intern · *Sep 2023 – Oct 2023*  
+Python utilities covering automation, data handling, and applied scripting under internship mentorship.
+
 <br>
 
-## 📊 GitHub Stats
+## Featured projects
+
+Hire portfolio — systems & product demos with public URLs.
+
+### cite-rag
+<img src="https://img.shields.io/badge/Next.js-0066FF?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/pgvector-0066FF?style=flat-square&logo=postgresql&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Groq-0066FF?style=flat-square&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Transformers.js-0066FF?style=flat-square&labelColor=1e1e1e" />
+
+Citation-backed RAG over **1,000+ docs** — pgvector retrieval, grounded answers with openable sources, OOD refusal. Eval: **90.9% Hit@1**, **100% Hit@5** (MRR 0.955).
+
+🌐 [cite-rag.vercel.app](https://cite-rag.vercel.app) · 🔗 [github.com/tanmays0/cite-rag](https://github.com/tanmays0/cite-rag)
+
+### ops-mcp
+<img src="https://img.shields.io/badge/Python-0066FF?style=flat-square&logo=python&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/FastMCP-0066FF?style=flat-square&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Postgres-0066FF?style=flat-square&logo=postgresql&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Docker-0066FF?style=flat-square&logo=docker&logoColor=white&labelColor=1e1e1e" />
+
+Model Context Protocol server with **8 typed tools** (GitHub, Postgres, deploy, sandbox FS) — sqlglot SELECT-only gates, path sandbox, dry-run writes, pytest + CI.
+
+🌐 [Pages demo](https://tanmays0.github.io/ops-mcp/) · 🔗 [github.com/tanmays0/ops-mcp](https://github.com/tanmays0/ops-mcp)
+
+### limitlab
+<img src="https://img.shields.io/badge/FastAPI-0066FF?style=flat-square&logo=fastapi&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Redis_Lua-0066FF?style=flat-square&logo=redis&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Next.js-0066FF?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/k6-0066FF?style=flat-square&labelColor=1e1e1e" />
+
+Token-bucket + sliding-window rate limiting with atomic Redis Lua — **~7,955 RPS** at p95 ≈ 40 ms (k6); Prometheus, `X-RateLimit` headers, live burst dashboard.
+
+🌐 [limitlab.vercel.app](https://limitlab.vercel.app) · 🔗 [github.com/tanmays0/limitlab](https://github.com/tanmays0/limitlab)
+
+### diff-review
+<img src="https://img.shields.io/badge/Next.js-0066FF?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/GitHub_Actions-0066FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Groq-0066FF?style=flat-square&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Neon-0066FF?style=flat-square&labelColor=1e1e1e" />
+
+Action-first **AI PR reviewer** — structured findings (severity, file, line) posted on GitHub diffs, plus a live review-history dashboard.
+
+🌐 [diff-review-ten.vercel.app](https://diff-review-ten.vercel.app) · 🔗 [github.com/tanmays0/diff-review](https://github.com/tanmays0/diff-review)
+
+### paylock
+<img src="https://img.shields.io/badge/Next.js-0066FF?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Razorpay-0066FF?style=flat-square&logo=razorpay&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Neon-0066FF?style=flat-square&labelColor=1e1e1e" />
+
+Payment **idempotency** — `UNIQUE(idempotency_key)` so retries/double-submit charge once; checkout + admin UI, Fire-twice demo, webhook dedupe (Razorpay test mode).
+
+🌐 [paylock-six.vercel.app](https://paylock-six.vercel.app) · 🔗 [github.com/tanmays0/paylock](https://github.com/tanmays0/paylock)
+
+<br>
+
+## Also shipping
+
+**[ARCHIVE](https://github.com/tanmays0/ARCHIVE)** — curated vintage / pre-loved fashion marketplace demo with scroll-driven landing, shop, cart & checkout · [Live](https://tanmays0.github.io/ARCHIVE/)
+
+<br>
+
+## GitHub Stats
 
 <div align="center">
 
@@ -106,37 +132,35 @@ Hyperlocal SaaS advertising network — local businesses run ads on each other's
 
 <br>
 
-## 📜 Certifications
+## Certifications
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/IBM-0066FF?style=for-the-badge&logo=ibm&logoColor=white&labelColor=1e1e1e" />
 <img src="https://img.shields.io/badge/Coursera-0066FF?style=for-the-badge&logo=coursera&logoColor=white&labelColor=1e1e1e" />
-<img src="https://img.shields.io/badge/Cisco-0066FF?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1e1e1e" />
-<img src="https://img.shields.io/badge/Salesforce-0066FF?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=1e1e1e" />
-<img src="https://img.shields.io/badge/Microsoft_Azure-0066FF?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=1e1e1e" />
-<img src="https://img.shields.io/badge/Anthropic-0066FF?style=for-the-badge&labelColor=1e1e1e" />
-<img src="https://img.shields.io/badge/CalArts-0066FF?style=for-the-badge&labelColor=1e1e1e" />
-<img src="https://img.shields.io/badge/UPenn-0066FF?style=for-the-badge&labelColor=1e1e1e" />
+<img src="https://img.shields.io/badge/DeepLearning.AI-0066FF?style=for-the-badge&labelColor=1e1e1e" />
+<img src="https://img.shields.io/badge/Google-0066FF?style=for-the-badge&logo=google&logoColor=white&labelColor=1e1e1e" />
+<img src="https://img.shields.io/badge/IBM-0066FF?style=for-the-badge&logo=ibm&logoColor=white&labelColor=1e1e1e" />
+<img src="https://img.shields.io/badge/Meta-0066FF?style=for-the-badge&logo=meta&logoColor=white&labelColor=1e1e1e" />
+<img src="https://img.shields.io/badge/Microsoft-0066FF?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=1e1e1e" />
+<img src="https://img.shields.io/badge/MongoDB-0066FF?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1e1e1e" />
 
 </div>
 
-13 certifications spanning backend development, test automation, UI/UX, AI, networking, and data visualization, averaging 95%+.
+**17** credentials spanning ML, GenAI, cloud, and full-stack — [view on GitHub](https://github.com/tanmays0/portfolio/tree/main/public/certifications).
 
 <br>
 
-## 📫 Let's Connect
+## Let's connect
 
 <div align="center">
 
-<a href="https://github.com/tanmays0"><img src="https://img.shields.io/badge/GitHub-1e1e1e?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/tanmay-shinde"><img src="https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:shinde.tanmay@gmail.com"><img src="https://img.shields.io/badge/Gmail-0066FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+Building AI systems & platform backends. Open to SWE / platform / AI engineering roles.
+
+<a href="mailto:shinde.tanmay@gmail.com"><img src="https://img.shields.io/badge/shinde.tanmay@gmail.com-0066FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e1e" /></a>
+<a href="https://www.linkedin.com/in/tanmay-shinde-160a60282/"><img src="https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1e1e" /></a>
 
 </div>
 
 <br>
-
-Currently heads-down on AdMax India's advertiser dashboard and mobile apps. If you're working on SaaS infrastructure, async job systems, or hiring for full-stack roles, feel free to reach out.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:0066FF&height=100&section=footer" width="100%"/>
