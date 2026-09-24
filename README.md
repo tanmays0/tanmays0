@@ -191,7 +191,6 @@ but genuinely *demoable* and *production-shaped*.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=tanmays0&style=for-the-badge&color=14b8a6&labelColor=0b1220&label=PROFILE+VIEWS)
 
 <br/><br/>
 
