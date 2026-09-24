@@ -12,7 +12,7 @@
 
 ## 🌊 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="border-radius:16px; margin-left:20px"/>
+
 
 &nbsp;&nbsp;Hi! I'm **Tanmay**, a software engineer who lives at the  
 &nbsp;&nbsp;crossroads of **AI systems**, **platform backends**, and **product UI**.
