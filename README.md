@@ -24,10 +24,10 @@ but genuinely *demoable* and *production-shaped*.
 
 <br/>
 
-🔭 &nbsp;Intern @ **AdMax India** — hyperlocal SaaS ad network  
+🔭 &nbsp;Former Intern @ **AdMax India** — hyperlocal SaaS ad network  
 🤖 &nbsp;Deep interest in **RAG, MCP, LLMs & rate limiting**  
 🌱 &nbsp;Currently shipping **vector search, Actions & idempotent APIs**  
-💬 &nbsp;Talk to me about **TypeScript, Python, Next.js, Redis, Docker, Postgres**  
+💬 &nbsp;Talk to me about **Java, Python, Next.js, Redis, Docker, Postgres**  
 ⚡ &nbsp;B.Tech IT @ MIT ADT · CGPA **8.52** · **17** certs  
 
 <br/>
