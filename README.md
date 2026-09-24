@@ -1,166 +1,181 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00FFFF&height=200&section=header&text=Tanmay%20Shinde&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Systems%20%26%20Platform&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:0ea5e9,50:14b8a6,75:22d3ee,100:f59e0b&height=230&section=header&text=Tanmay%20Shinde&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=%F0%9F%9A%80%20Software%20Engineer%20%20%E2%80%A2%20%20AI%20Systems%20%26%20Platform%20%20%E2%80%A2%20%20Pune&descAlignY=65&descSize=17&descColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=tanmays0&style=for-the-badge&color=0066FF&labelColor=1e1e1e&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/tanmays0?style=for-the-badge&color=0066FF&labelColor=1e1e1e&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Pune,_India-1e1e1e?style=for-the-badge&logo=googlemaps&logoColor=00ffff&labelColor=1e1e1e" />
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=720&lines=Shipping+AI+systems+you+can+open+in+a+browser;%F0%9F%A7%A0+RAG+%E2%80%A2+MCP+%E2%80%A2+rate+limiting+%E2%80%A2+AI+PR+review;%F0%9F%92%B3+Payment+idempotency+%26+platform+backends;%E2%9A%99%EF%B8%8F+Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
 </div>
 
-<br>
+<br/>
 
-## About
+## 🌊 About Me
 
-B.Tech Information Technology @ **MIT ADT University**, Pune (2023–2027, CGPA **8.52/10.0**). I build AI systems and platform backends you can open in a browser — RAG with citations, MCP tool servers, high-throughput rate limiting, AI PR review, and payment idempotency.
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggACQPf3TOAAS/giphy.gif" style="border-radius:16px; margin-left:20px"/>
 
-- 🎓 IT @ MIT ADT · graduating 2027
-- 💼 Full Stack Intern @ **AdMax India** (hyperlocal SaaS ad network)
-- 🛠️ TypeScript / Python · Next.js · FastAPI · Redis · Postgres/MySQL · Docker · Vercel
-- 📜 **17** certifications (Coursera, DeepLearning.AI, Google, IBM, Meta, Microsoft, MongoDB, …)
-- 📍 Pune, India
+&nbsp;&nbsp;Hi! I'm **Tanmay**, a software engineer focused on  
+&nbsp;&nbsp;**AI systems**, **platform backends**, and product UIs  
+&nbsp;&nbsp;recruiters can actually click.
 
-<br>
+&nbsp;&nbsp;B.Tech IT @ **MIT ADT University**, Pune  
+&nbsp;&nbsp;(2023–2027 · CGPA **8.52/10.0**).
 
-## Links
+<br/>
+
+&nbsp;&nbsp;🔭 &nbsp;Intern @ **AdMax India** — hyperlocal SaaS ad network  
+&nbsp;&nbsp;🤖 &nbsp;Building **RAG, MCP tools, rate limiters, AI PR review**  
+&nbsp;&nbsp;🌱 &nbsp;Exploring **vector DBs, idempotent APIs & edge deploy**  
+&nbsp;&nbsp;💬 &nbsp;Talk to me about **TypeScript, Python, Next.js, Redis**  
+&nbsp;&nbsp;⚡ &nbsp;**17** certs across ML, GenAI, cloud & full-stack  
+
+<br/>
+
+---
+
+<br/>
 
 <div align="center">
 
-<a href="mailto:shinde.tanmay@gmail.com"><img src="https://img.shields.io/badge/Email-0066FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e1e" /></a>
-<a href="https://www.linkedin.com/in/tanmay-shinde-160a60282/"><img src="https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1e1e" /></a>
-<a href="https://github.com/tanmays0"><img src="https://img.shields.io/badge/GitHub-1e1e1e?style=for-the-badge&logo=github&logoColor=white" /></a>
+## 🌐 Find Me Here
 
-**Live demos:** [cite-rag](https://cite-rag.vercel.app) · [limitlab](https://limitlab.vercel.app) · [diff-review](https://diff-review-ten.vercel.app) · [paylock](https://paylock-six.vercel.app) · [ops-mcp](https://tanmays0.github.io/ops-mcp/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-shinde-160a60282/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shinde.tanmay@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%230f172a.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanmays0)&nbsp;
+[![cite-rag](https://img.shields.io/badge/cite--rag-live-14b8a6?style=for-the-badge)](https://cite-rag.vercel.app)&nbsp;
+[![limitlab](https://img.shields.io/badge/limitlab-live-0ea5e9?style=for-the-badge)](https://limitlab.vercel.app)&nbsp;
+[![diff-review](https://img.shields.io/badge/diff--review-live-f59e0b?style=for-the-badge)](https://diff-review-ten.vercel.app)&nbsp;
+[![paylock](https://img.shields.io/badge/paylock-live-22d3ee?style=for-the-badge)](https://paylock-six.vercel.app)&nbsp;
+[![ops-mcp](https://img.shields.io/badge/ops--mcp-live-10b981?style=for-the-badge)](https://tanmays0.github.io/ops-mcp/)
 
 </div>
 
-<br>
+<br/>
 
-## Tech Stack
+---
+
+<br/>
 
 <div align="center">
 
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=ts,js,py,java,html,css&theme=dark" />
+## 🚀 Featured builds
 
-**Frameworks & Libraries**
-<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind,vite&theme=dark" />
-
-**Data & infra**
-<br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,vercel,aws,git&theme=dark" />
+| Project | What | Live |
+|--------|------|------|
+| **[cite-rag](https://github.com/tanmays0/cite-rag)** | Citation-backed RAG · 1,000+ docs · 90.9% Hit@1 | [Demo](https://cite-rag.vercel.app) |
+| **[ops-mcp](https://github.com/tanmays0/ops-mcp)** | MCP server · 8 typed tools · safety gates + CI | [Pages](https://tanmays0.github.io/ops-mcp/) |
+| **[limitlab](https://github.com/tanmays0/limitlab)** | Redis Lua rate limiter · ~7,955 RPS | [Demo](https://limitlab.vercel.app) |
+| **[diff-review](https://github.com/tanmays0/diff-review)** | Action-first AI PR reviewer + dashboard | [Demo](https://diff-review-ten.vercel.app) |
+| **[paylock](https://github.com/tanmays0/paylock)** | Payment idempotency · Razorpay + Neon | [Demo](https://paylock-six.vercel.app) |
 
 </div>
 
-<br>
+<br/>
 
-## Experience
+---
 
-**AdMax India** — Full Stack & Software Developer Intern · *Apr 2026 – Sep 2026*  
-Built **4 product surfaces** (advertiser dashboard, admin panel, marketing site, on-device screen player) for a hyperlocal SaaS ad network — REST APIs, JWT/OAuth, MySQL, React Native, Docker, and **3 GitHub Actions** workflows (CI / Terraform / deploy) toward AWS EKS.
-
-🔗 [github.com/tanmays0/admax-india](https://github.com/tanmays0/admax-india)
-
-**CodSoft** — Python Programming Intern · *Sep 2023 – Oct 2023*  
-Python utilities covering automation, data handling, and applied scripting under internship mentorship.
-
-<br>
-
-## Featured projects
-
-Hire portfolio — systems & product demos with public URLs.
-
-### cite-rag
-<img src="https://img.shields.io/badge/Next.js-0066FF?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/pgvector-0066FF?style=flat-square&logo=postgresql&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Groq-0066FF?style=flat-square&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Transformers.js-0066FF?style=flat-square&labelColor=1e1e1e" />
-
-Citation-backed RAG over **1,000+ docs** — pgvector retrieval, grounded answers with openable sources, OOD refusal. Eval: **90.9% Hit@1**, **100% Hit@5** (MRR 0.955).
-
-🌐 [cite-rag.vercel.app](https://cite-rag.vercel.app) · 🔗 [github.com/tanmays0/cite-rag](https://github.com/tanmays0/cite-rag)
-
-### ops-mcp
-<img src="https://img.shields.io/badge/Python-0066FF?style=flat-square&logo=python&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/FastMCP-0066FF?style=flat-square&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Postgres-0066FF?style=flat-square&logo=postgresql&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Docker-0066FF?style=flat-square&logo=docker&logoColor=white&labelColor=1e1e1e" />
-
-Model Context Protocol server with **8 typed tools** (GitHub, Postgres, deploy, sandbox FS) — sqlglot SELECT-only gates, path sandbox, dry-run writes, pytest + CI.
-
-🌐 [Pages demo](https://tanmays0.github.io/ops-mcp/) · 🔗 [github.com/tanmays0/ops-mcp](https://github.com/tanmays0/ops-mcp)
-
-### limitlab
-<img src="https://img.shields.io/badge/FastAPI-0066FF?style=flat-square&logo=fastapi&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Redis_Lua-0066FF?style=flat-square&logo=redis&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Next.js-0066FF?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/k6-0066FF?style=flat-square&labelColor=1e1e1e" />
-
-Token-bucket + sliding-window rate limiting with atomic Redis Lua — **~7,955 RPS** at p95 ≈ 40 ms (k6); Prometheus, `X-RateLimit` headers, live burst dashboard.
-
-🌐 [limitlab.vercel.app](https://limitlab.vercel.app) · 🔗 [github.com/tanmays0/limitlab](https://github.com/tanmays0/limitlab)
-
-### diff-review
-<img src="https://img.shields.io/badge/Next.js-0066FF?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/GitHub_Actions-0066FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Groq-0066FF?style=flat-square&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Neon-0066FF?style=flat-square&labelColor=1e1e1e" />
-
-Action-first **AI PR reviewer** — structured findings (severity, file, line) posted on GitHub diffs, plus a live review-history dashboard.
-
-🌐 [diff-review-ten.vercel.app](https://diff-review-ten.vercel.app) · 🔗 [github.com/tanmays0/diff-review](https://github.com/tanmays0/diff-review)
-
-### paylock
-<img src="https://img.shields.io/badge/Next.js-0066FF?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Razorpay-0066FF?style=flat-square&logo=razorpay&logoColor=white&labelColor=1e1e1e" /> <img src="https://img.shields.io/badge/Neon-0066FF?style=flat-square&labelColor=1e1e1e" />
-
-Payment **idempotency** — `UNIQUE(idempotency_key)` so retries/double-submit charge once; checkout + admin UI, Fire-twice demo, webhook dedupe (Razorpay test mode).
-
-🌐 [paylock-six.vercel.app](https://paylock-six.vercel.app) · 🔗 [github.com/tanmays0/paylock](https://github.com/tanmays0/paylock)
-
-<br>
-
-## Also shipping
-
-**[ARCHIVE](https://github.com/tanmays0/ARCHIVE)** — curated vintage / pre-loved fashion marketplace demo with scroll-driven landing, shop, cart & checkout · [Live](https://tanmays0.github.io/ARCHIVE/)
-
-<br>
-
-## GitHub Stats
+<br/>
 
 <div align="center">
 
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=tanmays0&show_icons=true&count_private=true&bg_color=1e1e1e&title_color=00ffff&icon_color=0066ff&text_color=ffffff&border_color=0066ff&border_radius=10" /></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmays0&background=1e1e1e&ring=0066ff&fire=00ffff&currStreakLabel=00ffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=a0a0a0&border=0066ff&border_radius=10" /></td>
-</tr>
-</table>
+## 💻 Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmays0&layout=compact&bg_color=1e1e1e&title_color=00ffff&text_color=ffffff&border_color=0066ff&border_radius=10&hide=jupyter%20notebook" />
+<br/>
+
+**⚙️ Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0ea5e9?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f59e0b?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-14b8a6?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-22d3ee?style=for-the-badge&logo=openjdk&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-10b981?style=for-the-badge&logo=sqlite&logoColor=white)
+
+<br/>
+
+**🧩 Frontend**
+
+![React](https://img.shields.io/badge/React-0ea5e9?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-14b8a6?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-22d3ee?style=for-the-badge&logo=react&logoColor=black)
+
+<br/>
+
+**🛠️ Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-10b981?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-0f172a?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-14b8a6?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastMCP](https://img.shields.io/badge/FastMCP-0ea5e9?style=for-the-badge)
+
+<br/>
+
+**🧠 AI · Systems**
+
+![pgvector](https://img.shields.io/badge/pgvector-14b8a6?style=for-the-badge&logo=postgresql&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-f59e0b?style=for-the-badge)
+![Vercel_AI_SDK](https://img.shields.io/badge/Vercel_AI_SDK-0f172a?style=for-the-badge&logo=vercel&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis_Lua-ef4444?style=for-the-badge&logo=redis&logoColor=white)
+
+<br/>
+
+**🗄️ Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0ea5e9?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-f59e0b?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-10b981?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-22d3ee?style=for-the-badge)
+
+<br/>
+
+**☁️ DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-0ea5e9?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-14b8a6?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-0f172a?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-f59e0b?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-22d3ee?style=for-the-badge&logo=kubernetes&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-7b42bc?style=for-the-badge&logo=terraform&logoColor=white)
 
 </div>
 
-<br>
+<br/>
 
-## Certifications
+---
+
+<br/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Coursera-0066FF?style=for-the-badge&logo=coursera&logoColor=white&labelColor=1e1e1e" />
-<img src="https://img.shields.io/badge/DeepLearning.AI-0066FF?style=for-the-badge&labelColor=1e1e1e" />
-<img src="https://img.shields.io/badge/Google-0066FF?style=for-the-badge&logo=google&logoColor=white&labelColor=1e1e1e" />
-<img src="https://img.shields.io/badge/IBM-0066FF?style=for-the-badge&logo=ibm&logoColor=white&labelColor=1e1e1e" />
-<img src="https://img.shields.io/badge/Meta-0066FF?style=for-the-badge&logo=meta&logoColor=white&labelColor=1e1e1e" />
-<img src="https://img.shields.io/badge/Microsoft-0066FF?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=1e1e1e" />
-<img src="https://img.shields.io/badge/MongoDB-0066FF?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1e1e1e" />
+## 📊 GitHub Stats
 
-</div>
+<br/>
 
-**17** credentials spanning ML, GenAI, cloud, and full-stack — [view on GitHub](https://github.com/tanmays0/portfolio/tree/main/public/certifications).
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanmays0&theme=vue" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanmays0&theme=vue" height="170"/>
 
-<br>
+<br/><br/>
 
-## Let's connect
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmays0&hide_border=true&background=0b1220&ring=14b8a6&fire=f59e0b&currStreakLabel=14b8a6&sideLabels=0ea5e9&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff&border_radius=16" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanmays0&bg_color=0b1220&color=14b8a6&line=0ea5e9&point=f59e0b&area=true&hide_border=true&border_radius=16" width="95%"/>
+
+<br/><br/>
+
+
+---
+
+<br/>
 
 <div align="center">
 
-Building AI systems & platform backends. Open to SWE / platform / AI engineering roles.
+![Profile Views](https://komarev.com/ghpvc/?username=tanmays0&style=for-the-badge&color=14b8a6&labelColor=0b1220&label=PROFILE+VIEWS)
 
-<a href="mailto:shinde.tanmay@gmail.com"><img src="https://img.shields.io/badge/shinde.tanmay@gmail.com-0066FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e1e" /></a>
-<a href="https://www.linkedin.com/in/tanmay-shinde-160a60282/"><img src="https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1e1e" /></a>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,25:22d3ee,50:14b8a6,75:0ea5e9,100:0f172a&height=120&section=footer&text=built%20with%20%E2%98%85%20by%20tanmay&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:0066FF&height=100&section=footer" width="100%"/>
