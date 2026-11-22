@@ -12,7 +12,7 @@
 
 <div align="center">
 
-## 🌊 About Me
+##  About Me
 
 <br/>
 
@@ -24,11 +24,11 @@ but genuinely *demoable* and *production-shaped*.
 
 <br/>
 
-🔭 &nbsp;Former Intern @ **AdMax India** — hyperlocal SaaS ad network  
-🤖 &nbsp;Deep interest in **RAG, MCP, LLMs & rate limiting**  
-🌱 &nbsp;Currently shipping **vector search, Actions & idempotent APIs**  
-💬 &nbsp;Talk to me about **Java, Python, Next.js, Redis, Docker, Postgres**  
-⚡ &nbsp;B.Tech IT @ MIT ADT · CGPA **8.52** · **17** certs  
+ &nbsp;Former Intern @ **AdMax India** — hyperlocal SaaS ad network  
+ &nbsp;Deep interest in **RAG, MCP, LLMs & rate limiting**  
+ &nbsp;Currently shipping **vector search, Actions & idempotent APIs**  
+ &nbsp;Talk to me about **Java, Python, Next.js, Redis, Docker, Postgres**  
+ &nbsp;B.Tech IT @ MIT ADT · CGPA **8.52** · **17** certs  
 
 <br/>
 
@@ -44,7 +44,7 @@ but genuinely *demoable* and *production-shaped*.
 
 <div align="center">
 
-## 🌐 Find Me Here
+##  Find Me Here
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-shinde-160a60282/)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shinde.tanmay@gmail.com)&nbsp;
